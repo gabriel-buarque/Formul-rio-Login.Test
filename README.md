@@ -1,6 +1,6 @@
 Registration Form
 
-Este projeto é um formulário de registro moderno desenvolvido com **HTML, CSS e JavaScript**, utilizando validação em tempo real, animações e exibição dinâmica dos cadastros.  
+Este projeto é um formulário de registro moderno desenvolvido com HTML, CSS e JavaScript, utilizando validação em tempo real, animações e exibição dinâmica dos cadastros.  
 O objetivo é demonstrar práticas de design, interatividade e organização de dados no front-end.
 
 
